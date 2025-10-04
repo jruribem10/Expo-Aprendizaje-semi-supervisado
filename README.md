@@ -5,8 +5,8 @@ Exposición sobre aprendizaje semi-supervisado para la asignatura de Aprendizaje
 
 ## Integrantes
 - **Jaime Uribe** — jruribem@efit.edu.co
-- **Luis Miguel Giraldo* — @efit.edu.co
-- ***Sofia Zapata* — @efit.edu.co
+- **Luis Miguel Giraldo** — @efit.edu.co
+- ***Sofia Zapata** — @efit.edu.co
 
 ## Materia
 Aprendizaje Automático
