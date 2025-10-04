@@ -1,12 +1,7 @@
-# Expo-Aprendizaje-semi-supervisado
+# Expo — Aprendizaje Semi-Supervisado
 
-Exposición sobre aprendizaje semi-supervisado para la asignatura de Aprendizaje Automático.
-
-
-## Integrantes
-- **Jaime Uribe** — jruribem@efit.edu.co
-- **Luis Miguel Giraldo** — @efit.edu.co
-- ***Sofia Zapata** — @efit.edu.co
+## Descripción breve
+Exposición sobre **aprendizaje semi-supervisado** para la asignatura de **Aprendizaje Automático**. El repositorio incluye un notebook en Python con conceptos clave y un ejemplo computacional reproducible.
 
 ## Materia
 Aprendizaje Automático
@@ -14,11 +9,10 @@ Aprendizaje Automático
 ## Año
 2025
 
-## Profesor(a)
-Marco Tulio Teran
+## Profesor
+Marco Tulio Terán
 
-## Descripción breve
-Repositorio en Python que introduce los conceptos fundamentales de **aprendizaje supervisado** y presenta un ejemplo computacional reproducible 
-
-
-
+## Integrantes
+- **Jaime Uribe** — jruribem@eafit.edu.co
+- **Luis Miguel Giraldo** — lmgiraldo@eafit.edu.co
+- **Sofía Zapata** — szapata@eafit.edu.co
