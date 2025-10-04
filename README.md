@@ -1,6 +1,6 @@
-# Expo — Aprendizaje Semi-Supervisado
+# Expo — Aprendizaje semi-supervisado
 
-## Descripción breve
+## Descripción 
 Exposición sobre **aprendizaje semi-supervisado** para la asignatura de **Aprendizaje Automático**. El repositorio incluye un notebook en Python con conceptos clave y un ejemplo computacional reproducible.
 
 ## Materia
