@@ -18,8 +18,9 @@ Marco Tulio Terán
 ## Contenido
 
 ### Diapositivas
-- **Ver en línea:** [Enlace a las diapositivas]([https://tu-url-de-slides-o-pdf.com](https://www.canva.com/design/DAG0xAFTroA/nN71pJd5PWYT_cRjw0arDA/edit?ui=eyJBIjp7fX0))  
-- **Descargar PDF:** [Diapositivas.pdf]()
+- **Ver en línea (vista):** [Enlace a las diapositivas](https://www.canva.com/design/DAG0xAFTroA/nN71pJd5PWYT_cRjw0arDA/view)
+- **Ver en línea (presentación):** [Enlace a las diapositivas](https://www.canva.com/design/DAG0xAFTroA/nN71pJd5PWYT_cRjw0arDA/present)
+
 
 ### Notebook
 - **Abrir en Colab:**  
