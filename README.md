@@ -24,7 +24,7 @@ Marco Tulio Terán
 
 ### Notebook
 - **Abrir en Colab:**  
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<usuario>/<repo>/blob/main/notebooks/01_semi_supervisado.ipynb)
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/<usuario>/<repo>/blob/main/notebooks/01_semi_supervisado.ipynb](https://github.com/jruribem10/Expo-Aprendizaje-semi-supervisado/blob/main/Expo.ipynb))
 - **Descargar .ipynb:**  
-  [`01_semi_supervisado.ipynb`](https://raw.githubusercontent.com/<usuario>/<repo>/main/notebooks/01_semi_supervisado.ipynb)
+  [`01_semi_supervisado.ipynb`]([https://raw.githubusercontent.com/<usuario>/<repo>/main/notebooks/01_semi_supervisado.ipynb](https://github.com/jruribem10/Expo-Aprendizaje-semi-supervisado/blob/main/Expo.ipynb))
 
