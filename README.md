@@ -10,7 +10,7 @@ Marco Tulio Terán
 
 ## Integrantes
 - **Jaime Uribe** — jruribem@eafit.edu.co
-- **Luis Miguel Giraldo** — lmgiraldo@eafit.edu.co
+- **Luis Miguel Giraldo** — lmgiraldo4@eafit.edu.co
 - **Sofía Zapata** — szapata@eafit.edu.co
 
 ---
@@ -19,7 +19,6 @@ Marco Tulio Terán
 
 ### Diapositivas
 - **Ver en línea (vista):** [Enlace a las diapositivas](https://www.canva.com/design/DAG0xAFTroA/nN71pJd5PWYT_cRjw0arDA/view)
-- **Ver en línea (presentación):** [Enlace a las diapositivas](https://www.canva.com/design/DAG0xAFTroA/nN71pJd5PWYT_cRjw0arDA/present)
 
 
 ### Notebook
