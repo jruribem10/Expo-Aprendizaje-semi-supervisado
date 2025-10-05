@@ -27,5 +27,4 @@ Marco Tulio Terán
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<usuario>/<repo>/blob/main/notebooks/01_semi_supervisado.ipynb)
 - **Descargar .ipynb:**  
   [`01_semi_supervisado.ipynb`](https://raw.githubusercontent.com/<usuario>/<repo>/main/notebooks/01_semi_supervisado.ipynb)
-- **Ver en GitHub:**  
-  [`notebooks/01_semi_supervisado.ipynb`](https://github.com/<usuario>/<repo>/blob/main/notebooks/01_semi_supervisado.ipynb)
+
