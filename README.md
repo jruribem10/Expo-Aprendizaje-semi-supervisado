@@ -1,4 +1,4 @@
-# Expo — Aprendizaje semi-supervisado
+# SI7009 — Aprendizaje Automático
 
 ## Descripción 
 Exposición sobre **aprendizaje semi-supervisado** para la asignatura de **Aprendizaje Automático**. El repositorio incluye un notebook en Python con conceptos clave y un ejemplo computacional reproducible.
@@ -16,3 +16,19 @@ Marco Tulio Terán
 - **Jaime Uribe** — jruribem@eafit.edu.co
 - **Luis Miguel Giraldo** — lmgiraldo@eafit.edu.co
 - **Sofía Zapata** — szapata@eafit.edu.co
+
+---
+
+## Contenido
+
+### Diapositivas
+- **Ver en línea:** [Enlace a las diapositivas]([https://tu-url-de-slides-o-pdf.com](https://www.canva.com/design/DAG0xAFTroA/nN71pJd5PWYT_cRjw0arDA/edit?ui=eyJBIjp7fX0))  
+- **Descargar PDF:** [Diapositivas.pdf]()
+
+### Notebook
+- **Abrir en Colab:**  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<usuario>/<repo>/blob/main/notebooks/01_semi_supervisado.ipynb)
+- **Descargar .ipynb:**  
+  [`01_semi_supervisado.ipynb`](https://raw.githubusercontent.com/<usuario>/<repo>/main/notebooks/01_semi_supervisado.ipynb)
+- **Ver en GitHub:**  
+  [`notebooks/01_semi_supervisado.ipynb`](https://github.com/<usuario>/<repo>/blob/main/notebooks/01_semi_supervisado.ipynb)
