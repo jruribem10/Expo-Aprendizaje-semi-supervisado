@@ -24,12 +24,12 @@ Marco Tulio Terán
 ### Notebook
 
 - **Abrir en Colab:**  
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jruribem10/Expo-Aprendizaje-semi-supervisado/blob/main/Expo.ipynb)
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jruribem10/Expo-Aprendizaje-semi-supervisado/blob/main/Expo_semi_supervisado.ipynb)
 
 - **Ver en GitHub:**  
-  [Expo.ipynb](https://github.com/jruribem10/Expo-Aprendizaje-semi-supervisado/blob/main/Expo.ipynb)
+  [Expo.ipynb](https://github.com/jruribem10/Expo-Aprendizaje-semi-supervisado/blob/main/Expo_semi_supervisado.ipynb)
 
 - **Descargar .ipynb:**  
-  [Descargar Expo.ipynb](https://raw.githubusercontent.com/jruribem10/Expo-Aprendizaje-semi-supervisado/main/Expo.ipynb)
+  [Descargar Expo.ipynb](https://raw.githubusercontent.com/jruribem10/Expo-Aprendizaje-semi-supervisado/main/Expo_semi_supervisado.ipynb)
 
 
